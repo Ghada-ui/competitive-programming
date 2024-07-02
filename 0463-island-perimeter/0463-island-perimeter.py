@@ -30,4 +30,3 @@ class Solution:
 
         dfs(grid, 0, 0, visited)
         return count
-        # Fabrice solution explained in class.
